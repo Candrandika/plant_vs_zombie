@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#grid-center {
+  display: grid;
+  min-height: 100dvh;
+  place-items: center;
+}
+
+#game {
+  background-color: black;
+}
